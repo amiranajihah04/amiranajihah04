@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./rsz_12136_-_2.jpg" alt="Nur Amira Najihah" width="150px" style="border-radius: 50%;" />
+</p>
 
 # Hi there, I'm Nur Amira Najihah! 👋
 
