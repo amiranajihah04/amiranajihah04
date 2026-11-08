@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am currently pursuing my degree in **Computer Sc
 - 🔭 **Currently learning:** Advanced Data Structures, SQL, Python, and ETL Processes.
 - 💡 **Interests:** Data Engineering, Database Management, Cloud Computing, and Software Development.
 - 🌱 **Goal:** To build robust data systems and continuous learning in technology.
-- 📫 **How to reach me:** [Your Email / LinkedIn Link]
+- 📫 **How to reach me:** [nuramiranajihah@graduate.utm / https://www.linkedin.com/in/nur-amira-najihah-binti-hairolesam-a1a389445/]
 
 ---
 
